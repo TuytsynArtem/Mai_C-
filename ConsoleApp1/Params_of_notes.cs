@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
        public string title ;
        public string body  ;
-       public int id = 0;
+       public int id;
        public DateTime time;
 
         
