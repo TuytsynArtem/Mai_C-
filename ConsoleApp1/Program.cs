@@ -40,6 +40,8 @@ namespace ConsoleApp1
                 params_of_notes.Show();
                 i++;
 
+                foreach (string parametry in params_of_notes) { Console.WriteLine(parametry); }
+
 
 
 
